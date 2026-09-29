@@ -1,0 +1,6 @@
+{
+  "name": "Ruang Proyek - Digital Product Commerce",
+  "description": "Platform modern penjualan produk digital: checkout konversi tinggi, otomatisasi pengiriman file, integrasi payment gateway QRIS & VA, serta dashboard analitik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
